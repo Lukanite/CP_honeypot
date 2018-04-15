@@ -20,6 +20,7 @@ fixed the issue.
  - ~180 request URL's logged (Glastopf)
 
 Last 24 Hours:
+
 <img src="https://github.com/Lukanite/CP_honeypot/raw/master/last24.png" />
 
 ## Unresolved questions
